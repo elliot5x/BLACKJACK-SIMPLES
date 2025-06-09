@@ -2,7 +2,7 @@
 
 Um joguinho de blackjack simples.
 
-## Instalação e Como Jogar
+## Instalação:
 
 Para rodar:
 
